@@ -1,0 +1,14 @@
+layout_spectrum: 0.7617382272146642
+typography_spectrum: 0.15184901910834014
+color:
+  brandStrength: 0.888564478373155
+  lightness: 0.5947530653793365
+  saturation: 0.43949476163834333
+  rhythmicContrast: 0.053706040140241385
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Atticus30
